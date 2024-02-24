@@ -81,7 +81,7 @@ void lomuto_sort(int *array, size_t size, int left, int right)
  * quick_sort - Sort an array of integers in ascending
  *              order using the quicksort algorithm.
  * @array: An array of integers.
- * @size: The size of the array.
+ * @size: The array size
  *
  * Description: Uses the Lomuto partition scheme. Prints
  *              the array after each swap of two elements.
